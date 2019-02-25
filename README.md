@@ -1,6 +1,6 @@
 ## short description of this small project
 
-The Analyzer does a simple overview of your chatting behavior with someone on WhatsApp.
+The Analyzer does a simple overview of your chatting behavior with someone on WhatsApp. This project still may have some messy code so I am really sorry for this.
 
 The file of the chat can be exported in WhatsApp (Android) or directly in WhatsApp Web (right click on chat -> archive chat).
 
