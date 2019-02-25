@@ -12,14 +12,14 @@ The exported file will have the following layout:
 ...
 ```
 
-The analyziation can be done with creating a WamAnalyzer object:
+The analysis can be done by creating a WamAnalyzer object:
 
 ```
 WamAnalyzerImpl analyzer = new WamAnalyzerImpl();
 analyzer.analyzeWhatsApp("C:\\Users\\Foo\\Desktop\\ChatWithBar.txt");
 ```
 
-The program will display graphs as result of the analyzation.
+The program will display graphs as result of the analysis:
 
 ![1st graph](https://i.gyazo.com/e319691970b9c5ec8fc46718e5e226b4.png)
 
