@@ -1,4 +1,4 @@
-## short description of this small project
+## WhatsApp Message Analyzer
 
 The Analyzer does a simple overview of your chatting behavior with someone on WhatsApp. This project still may have some messy code so I am really sorry for this.
 
