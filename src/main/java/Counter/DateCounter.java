@@ -51,7 +51,7 @@ public class DateCounter
     public static LocalDate buildDate(final String date)
     {
         //Validate incoming date (a line of the chat file)
-        if(date.length() < END_CHART_LINE_DATE || date == null)
+        if(date == null || date.length() < END_CHART_LINE_DATE)
         {
             return null;
         }
