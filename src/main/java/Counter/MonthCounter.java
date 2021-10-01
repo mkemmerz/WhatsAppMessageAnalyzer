@@ -9,7 +9,7 @@ public class MonthCounter
 {
     private final static int LENGTH_VALID_YEAR = 4;
     private final static int START_YEAR_OF_WHATS_APP = 2010;
-    private List<DateCounter> data;
+    private final List<DateCounter> data;
 
     public MonthCounter(List<DateCounter> data)
     {
