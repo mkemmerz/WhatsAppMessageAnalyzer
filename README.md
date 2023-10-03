@@ -2,7 +2,17 @@
 
 The Analyzer does a simple overview of your chatting behavior with someone on WhatsApp. This project still may have some messy code so I am really sorry for this.
 
-The file of the chat can be exported in WhatsApp (Android) or directly in WhatsApp Web (right click on chat -> archive chat).
+The file of the chat can be exported in WhatsApp (Android).
+
+You can use the export chat feature to export a copy of the chat history from an individual or group chat.
+
+[Steps](https://faq.whatsapp.com/1180414079177245)
+
+Open the individual or group chat.
+
+Tap > More > Export chat.
+Tap Without media or Include media.
+```.txt``` document can be exported.
 
 The exported file will have the following layout:
 
